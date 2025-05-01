@@ -4,6 +4,12 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
+      <div className="stars"></div>
+      <div className="stars"></div>
+      <div className="stars"></div>
+      <div className="stars"></div>
+      <div className="stars"></div>
+      <div className="stars"></div>
       <section className="flex justify-center items-center h-screen">
         <div>
           <Image
