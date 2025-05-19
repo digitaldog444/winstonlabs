@@ -40,7 +40,7 @@ export default function Home() {
           <div className="mt-4">
             <div className="border-amber-500 border-2 rounded-md p-4">
               <h3 className="text-2xl">Winston</h3>
-              <p className="pt-2 border-t-orange-400">
+              <p className="p-2 border-t-orange-400">
                 Winston is an AI matchmaker. He will find the partner the AI
                 thinks is best for you.
               </p>
